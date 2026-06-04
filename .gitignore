@@ -1,0 +1,43 @@
+# ==========================================
+# DEPENDENCIAS
+# ==========================================
+node_modules/
+
+# ==========================================
+# ARCHIVOS SENSIBLES / CREDENCIALES
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# Google Service Account Key (MUY IMPORTANTE)
+credentials.json
+
+# Sesión de WhatsApp (contiene datos de autenticación)
+session.json
+
+# Archivos de datos que pueden tener información personal
+conversation_history.json
+clients.json
+
+# ==========================================
+# ARCHIVOS DEL SISTEMA OPERATIVO
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# LOGS
+# ==========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# EDITOR / IDE
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo
