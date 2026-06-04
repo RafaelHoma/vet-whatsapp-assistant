@@ -48,7 +48,7 @@ It is recommended to use a paid instance or a more stable hosting if you need hi
 | Variable                | Description                          |
 |-------------------------|--------------------------------------|
 | `QWEN_API_KEY`          | DashScope API Key                    |
-| `SENDGRID_API_KEY`      | SendGrid API Key                     |
+
 
 ## 📊 Project Highlights
 
