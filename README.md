@@ -25,7 +25,7 @@ Built with `whatsapp-web.js`, Qwen LLM, and Google Calendar API. Designed as a p
 ## 🚀 Quick Start (Local)
 
 ```bash
-git clone https://github.com/v3rtigo75/vet-sales-assistant.git
+git clone https://github.com/rafaelhoma/vet-sales-assistant.git
 cd vet-sales-assistant
 npm install
 cp .env.example .env
